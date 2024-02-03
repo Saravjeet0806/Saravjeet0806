@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravjeet0806" alt="saravjeet0806" /></a> </p>
 
-- 🔭 I’m currently working on [MMA academy Website](https://github.com/Saravjeet0806/MiniProject1-MMAacademywebsite)
+- 🔭 I’m currently working on [MMA academy Website](https://saravjeet0806.github.io/MiniProject1-MMAacademywebsite/)
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
