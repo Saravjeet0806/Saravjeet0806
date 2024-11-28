@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravjeet0806" alt="saravjeet0806" /></a> </p>
 
-- 🔭 I’m currently working on [Netlfix Clone Website](https://github.com/Saravjeet0806/netflix-clone-using-Html-CSS)
+- 🔭 I’m currently working on [Terraform and Ansible]()
 
-- 🌱 I’m currently learning **DSA and Web Development**
+- 🌱 I’m currently learning **DevOPS and Web Development**
 
 - 📫 How to reach me **saravjeetofficial@gmail.com**
 
