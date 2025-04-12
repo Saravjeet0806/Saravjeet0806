@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saravjeet Singh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate DevOPS Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravjeet0806&label=Profile%20views&color=0e75b6&style=flat" alt="saravjeet0806" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravjeet0806" alt="saravjeet0806" /></a> </p>
 
-- 🔭 I’m currently working on [Terraform and Ansible]()
+- 🔭 I’m currently working on [Kubernetes and Docker]()
 
 - 🌱 I’m currently learning **DevOPS and Web Development**
 
