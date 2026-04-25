@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravjeet0806" alt="saravjeet0806" /></a> </p>
 
-- 🔭 I’m currently working on [Kubernetes and Docker]()
+- 🔭 I’m currently working on [Full Stack Development]()
 
-- 🌱 I’m currently learning **DevOPS and Web Development**
+- 🌱 I’m currently learning **DevOps and full stack development**
 
 - 📫 How to reach me **saravjeetofficial@gmail.com**
 
