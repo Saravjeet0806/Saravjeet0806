@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saravjeet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravjeet0806&label=Profile%20views&color=0e75b6&style=flat" alt="saravjeet0806" /> </p>
 
