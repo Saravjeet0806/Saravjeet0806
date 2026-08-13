@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravjeet0806&label=Profile%20views&color=0e75b6&style=flat" alt="saravjeet0806" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravjeet0806" alt="saravjeet0806" /></a> </p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Saravjeet0806/Saravjeet0806/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Saravjeet0806/Saravjeet0806/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 - 🔭 I’m currently working on [Interview Application](https://github.com/Saravjeet0806/Interview_application)
 
